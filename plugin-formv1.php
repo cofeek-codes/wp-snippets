@@ -6,6 +6,12 @@ Version: 1.0
 Author: Your Name
 */
 
+
+
+// USE strcmp($password, $repeat_password) FOR false
+
+
+
 // Register the shortcode
 function custom_registration_form_shortcode() {
     ob_start();
